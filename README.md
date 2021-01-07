@@ -1,10 +1,10 @@
 # ArtificialVision_Group11
 Group_11
 
-- De Simone Giuseppe
-- Giaquinto Gennaro
-- Marino Christian
-- Serritiello Simone
+- De Simone Giuseppe 0622701126
+- Giaquinto Gennaro 0622701193
+- Marino Christian 0622701090
+- Serritiello Simone 0622701122
 
 # Fase preliminare
 Per poter eseguire entrambi gli esperimenti bisogna caricare i file contenuti nella sezione *Releases/datafiles*, della repository, nella directory *Group_11/*
